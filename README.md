@@ -17,6 +17,6 @@ cd endermite
 <a href="https://discordapp.com/users/1083772886654926898" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/1083772886654926898.png"/></a>
 
   
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=natemoo-re&bar_color=bb00ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=u8dmsgd7ekdc8db9kh8a5sgkw&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=natemoo-re&bar_color=bb00ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1yfn6x1gybdwrziukq9zey1n0&redirect=true)
 
 <a href="https://beachway.me/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
