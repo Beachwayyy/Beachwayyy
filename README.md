@@ -3,7 +3,7 @@
 </p>
 
 ```sh-session
-cd endermite
+ssh jacob@astrum.gg
 ```
 
 <div align="center">
@@ -14,6 +14,5 @@ cd endermite
 🌐・**Website: [https://beachway.me](https://beachway.me)** 
 
 <a href="https://discordapp.com/users/496357304912838656" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/496357304912838656.png"/></a>
-<a href="https://discordapp.com/users/1083772886654926898" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/1083772886654926898.png"/></a>
 
 <a href="https://beachway.me/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
