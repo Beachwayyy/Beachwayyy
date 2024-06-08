@@ -1,21 +1,20 @@
-<p align="center">
-  <a href="https://logout.space"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=232426&center=true&width=1200&height=140&lines=%E2%98%A6+IM+BEACHWAY+%E2%98%A6;ONE+DAY+THE+SUN+GONNA+EXPLODE;AND+ALL+THIS+WAS+FOR+NOTHING.."></a>
+<p align=center>
+  <a href="https://discord.com/users/963931799342424114">
+    <img src="https://discord.c99.nl/widget/theme-4/496357304912838656.png">
+  </a>
 </p>
 
-```sh-session
-ssh jacob@astrum.gg
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aurilly&style=for-the-badge&color=blueviolet"></img>
+  <img src="https://img.shields.io/github/followers/aurilly?affiliations=OWNER%2CCOLLABORATOR&color=blueviolet&style=for-the-badge"></img>
+  <img src="https://img.shields.io/github/stars/aurilly?affiliations=OWNER%2CCOLLABORATOR&color=blueviolet&style=for-the-badge"></img>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-252525.svg?style=for-the-badge&logo=javascript&logoColor=blueviolet"></img>
+  <img src="https://img.shields.io/badge/typescript-252525.svg?style=for-the-badge&logo=typescript&logoColor=blueviolet"></img>
+</p>
 
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Beachwayyy" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Beachwayyy" alt="Profile Forks"></a>
-
-🌐・**Website: [https://beachway.me](https://beachway.me)** 
-
-<a href="https://discordapp.com/users/496357304912838656" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/496357304912838656.png"/></a>
-
-<a href="https://beachway.me/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 <!-- 
   stolen from @TheCubiq
   shoutout to @iGerman00 for showing me this <3
@@ -28,3 +27,5 @@ ssh jacob@astrum.gg
 \mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 100px; width: 1000px; animation: 0.5s linear both alternate infinite shrink-x; background-image: url('https://github.com/aurilly/aurilly/blob/main/dog-staring.gif?raw=true');"]{}
 
 ```
+
+
