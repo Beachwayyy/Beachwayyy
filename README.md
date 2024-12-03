@@ -15,7 +15,7 @@ ssh aurelio@frostbase.net
 
 <a href="https://discordapp.com/users/496357304912838656" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/496357304912838656.png"/></a>
 
-<a href="https://beachway.me/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<a href="https://frostbase.net/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 <!-- 
   stolen from @TheCubiq
   shoutout to @iGerman00 for showing me this <3
